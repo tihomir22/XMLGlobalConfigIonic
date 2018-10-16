@@ -1,0 +1,2 @@
+# XMLGlobalConfigIonic
+XMLGlobalConfigIonic
